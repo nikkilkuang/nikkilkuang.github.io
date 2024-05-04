@@ -118,7 +118,13 @@ sections:
       text: <ul>
             <li>Posterior Sampling in RL with delayed feedback
               <ul>
-                <li>TILOS AI Institute Seminars, 2024</li>
+                <li>SOCAMS, 2024</li>
+                <li>TILOS-Intel Workshop, 2024</li>
+              </ul>
+            </li>
+            <li>Robust Human Intention Estimation in Robot Teleoperation
+              <ul>
+                <li>Honda Research Institute PC Seminar, 2024</li>
               </ul>
             </li>
             <li>Efficient Langevin Thompson Sampling in Bandits and RL

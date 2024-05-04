@@ -1,5 +1,5 @@
 ---
-title: 'Langevin Thompson sampling with logarithmic communication: bandits and reinforcement learning'
+title: 'Towards Robust Estimation of Intention Hierarchy in Robot Teleoperation'
 
 subtitle: ICML 2023
 
@@ -9,10 +9,9 @@ subtitle: ICML 2023
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Nikki Lijing Kuang*
-  - Siddharth Mitra*
-  - Amin Karbasi
-  - Yi-An Ma
+  - Nikki Lijing Kuang
+  - Soshi Iba
+  - Songpo Li
 
 # Author notes (optional)
 author_notes:
@@ -21,13 +20,13 @@ author_notes:
   - ''
   - ''
   - ''
-  - ''
 
-date: '2023-06-22T00:00:00Z'
+
+date: '2024-03-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2024-05-02T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -35,16 +34,17 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Machine Learning"
-publication_short: "ICML"
+publication: "Preprint"
+publication_short: ""
 
-abstract: Thompson sampling (TS) is widely used in sequential decision making due to its ease of use and appealing empirical performance. However, many existing analytical and empirical results for TS rely on restrictive assumptions on reward distributions, such as belonging to conjugate families, which limits their applicability in realistic scenarios. Moreover, sequential decision making problems are often carried out in a batched manner, either due to the inherent nature of the problem or to serve the purpose of reducing communication and computation costs. In this work, we jointly study these problems in two popular settings, namely, stochastic multi-armed bandits (MABs) and infinite-horizon reinforcement learning (RL), where TS is used to learn the unknown reward distributions and transition dynamics, respectively. We propose batched Langevin Thompson Sampling algorithms that leverage MCMC methods to sample from approximate posteriors with only logarithmic communication costs in terms of batches. Our algorithms are computationally efficient and maintain the same order-optimal regret guarantees of for stochastic MABs, and for RL. We complement our theoretical findings with experimental results.
+abstract: The last few decades have witnessed the widespread adoption of robot teleoperation across a myriad of real-world domains, including manufacturing, healthcare, military, and beyond. It has been recognized as an effective approach to assist humans in remotely tackling tasks that pose significant challenges and risks when undertaken alone. To improve the efficiency of collaboration between human and robot in teleoperated systems, it is essential to facilitate the robot to precisely infer human intentions. In this work, we introduce RoHIE, a novel architecture designed to reason about the intentions of the human partner at different levels of granularity. In particular, it leverages non-verbal observations that capture the motion and gaze information in shared autonomy, and learns a flexible intention hierarchy to categorize the relationship between low-level action primitives and higher-level task goals, thereby enabling robust inference. Moreover, by learning a compact representation in the embedding space, our framework captures the latent structural information of human behaviors from human partners' demonstrations, empowering the robot to robustly and accurately estimate the intention of new human companions. We further collect a teleoperation dataset featuring different human participants engaged in a variety of building block assembly tasks, and rigorously validate the efficacy of our approach against baseline methods with various evaluation metrics.
 
 # Summary. An optional shortened abstract.
-summary: (ICML 2023) We study approximate Thompson Sampling with Markov Chain Monte Carlo in bandit and reinforcement learning frameworks, providing algorithms that achieve optimal performance with low computation and communication cost.
+summary: (Preprint) We propose a novel architecture to reason about the intentions of the human partner in assistive robot teleoperation through non-verbal observations.
 
 tags: 
-- Batched Langevin RL
+- Intention estimation
+- Robot Teleoperation
 
 # Display this page in the Featured widget?
 featured: true
@@ -54,11 +54,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://proceedings.mlr.press/v202/karbasi23a/karbasi23a.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'https://icml.cc/media/PosterPDFs/ICML%202023/23638.png?t=1690654535.0261657'
-url_project: 'https://icml.cc/virtual/2023/poster/23638'
+url_poster: ''
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''

@@ -41,7 +41,7 @@ abstract: Variational inference has recently emerged as a popular alternative to
 
 
 # Summary. An optional shortened abstract.
-summary: We provide a rigorous study of the statistical and computational trade-offs for variational inference (VI).
+summary: (Preprint) We provide a rigorous study of the statistical and computational trade-offs for variational inference (VI).
 
 tags:
 - Variational inference
@@ -77,8 +77,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

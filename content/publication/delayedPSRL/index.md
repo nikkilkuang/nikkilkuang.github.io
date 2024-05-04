@@ -43,7 +43,7 @@ publication_short: "NeurIPS"
 abstract: Recent studies in reinforcement learning (RL) have made significant progress by leveraging function approximation to alleviate the sample complexity hurdle for better performance. Despite the success, existing provably efficient algorithms typically rely on the accessibility of immediate feedback upon taking actions. The failure to account for the impact of delay in observations can significantly degrade the performance of real-world systems due to the regret blow-up. In this work, we tackle the challenge of delayed feedback in RL with linear function approximation by employing posterior sampling, which has been shown to empirically outperform the popular UCB algorithms in a wide range of regimes. We first introduce \textit{Delayed-PSVI}, an optimistic value-based algorithm that effectively explores the value function space via noise perturbation with posterior sampling. We provide the first analysis for posterior sampling algorithms with delayed feedback in RL and show our algorithm achieves worst-case regret in the presence of unknown stochastic delays. Here is the expected delay. To further improve its computational efficiency and to expand its applicability in high-dimensional RL problems, we incorporate a gradient-based approximate sampling scheme via Langevin dynamics for \textit{Delayed-LPSVI}, which maintains the same order-optimal regret guarantee with computational cost. Empirical evaluations are performed to demonstrate the statistical and computational efficacy of our algorithms.
 
 # Summary. An optional shortened abstract.
-summary: We provide the first theoretical analysis for the class of posterior sampling algorithms to handle delayed feedback in RL frameworks.
+summary: (NeurIPS 2023) We provide the first theoretical analysis for the class of posterior sampling algorithms to handle delayed feedback in RL frameworks.
 
 tags:
 - PSRL
@@ -77,8 +77,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
