@@ -43,7 +43,7 @@ publication_short: "NeurIPS"
 abstract: The impressive generative capabilities of large language models (LLMs) have led to their widespread adoption across diverse applications. However, existing alignment methods, which rely heavily on expensive fine-tuning processes, focus on optimizing for the $\textit{general human preferences}$ such as safety, fairness, and trustworthiness. These approaches suffer from scalability and adaptability issues when addressing $\textit{personal preferences}$ which could be different across users. In this paper, we introduce a novel approach to LLM alignment for personalized preference based on decode-time frameworks. Our approach enables dynamic adaptation to personal preferences during inference, providing a flexible and computationally efficient solution for personalization without the need of training-time interventions. We demonstrate the efficacy of our method on benchmark datasets and tasks, by enhancing LLMs' ability to adapt to diverse personal preferences compared to the existing alignment methods.
 
 # Summary. An optional shortened abstract.
-summary: (NeurIPS 2024 Workshop) We introduce a novel approach to LLM alignment for personalized preference based on decode-time frameworks.
+summary: (NeurIPS 2024 AFM) We introduce a novel approach to LLM alignment for personalized preference based on decode-time frameworks.
 
 tags:
 - Personalized Alignment
