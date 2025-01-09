@@ -26,7 +26,7 @@ date: '2024-03-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-02T00:00:00Z'
+publishDate: '2024-03-30T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -47,7 +47,7 @@ tags:
 - Robot Teleoperation
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

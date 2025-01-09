@@ -35,7 +35,7 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Machine Learning"
+publication: "International Conference on Machine Learning (ICML)"
 publication_short: "ICML"
 
 abstract: Thompson sampling (TS) is widely used in sequential decision making due to its ease of use and appealing empirical performance. However, many existing analytical and empirical results for TS rely on restrictive assumptions on reward distributions, such as belonging to conjugate families, which limits their applicability in realistic scenarios. Moreover, sequential decision making problems are often carried out in a batched manner, either due to the inherent nature of the problem or to serve the purpose of reducing communication and computation costs. In this work, we jointly study these problems in two popular settings, namely, stochastic multi-armed bandits (MABs) and infinite-horizon reinforcement learning (RL), where TS is used to learn the unknown reward distributions and transition dynamics, respectively. We propose batched Langevin Thompson Sampling algorithms that leverage MCMC methods to sample from approximate posteriors with only logarithmic communication costs in terms of batches. Our algorithms are computationally efficient and maintain the same order-optimal regret guarantees of for stochastic MABs, and for RL. We complement our theoretical findings with experimental results.
@@ -44,7 +44,10 @@ abstract: Thompson sampling (TS) is widely used in sequential decision making du
 summary: (ICML 2023) We study approximate Thompson Sampling with Markov Chain Monte Carlo in bandit and reinforcement learning frameworks, providing algorithms that achieve optimal performance with low computation and communication cost.
 
 tags: 
-- Batched Langevin RL, Reinforcement Learning
+- Batched Langevin RL
+- Reinforcement Learning
+- Langevin Monte Carlo
+- MCMC
 
 # Display this page in the Featured widget?
 featured: true

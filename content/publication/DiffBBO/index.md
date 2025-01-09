@@ -25,11 +25,11 @@ authors:
 #   - ''
 #   - ''
 
-date: "2024-10-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-01T00:00:00Z"
+publishDate: "2024-06-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -46,7 +46,9 @@ abstract: Black-box optimization (BBO) aims to optimize an objective function by
 summary: (NeurIPS 2024 Workshop) We propose an inverse modeling approach with a novel acquisition function named Uncertainty-aware Exploration (UaE) for efficient online black-box optimization using classifier-free conditional diffusion models.
 
 tags:
-- Diffusion models, Black-box Optimization, Uncertainty Quantification
+- Diffusion models
+- Black-box Optimization
+- Uncertainty Quantification
 
 featured: true
 

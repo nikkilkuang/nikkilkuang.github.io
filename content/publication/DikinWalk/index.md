@@ -1,5 +1,5 @@
 ---
-title: "Towards Personalized Language Models via Inference-time Human Preference Optimization"
+title: "Log-concave Sampling from a Convex Body with a Barrier: a Robust and Unified Dikin Walk"
 
 subtitle: NeurIPS 2024
 
@@ -37,16 +37,17 @@ publishDate: "2024-05-01T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "NeurIPS 2024 Workshop on Adaptive Foundation Models"
+publication: "Advances in Neural Information Processing Systems (NeurIPS)"
 publication_short: "NeurIPS"
 
-abstract: We consider the problem of sampling from a $d$-dimensional log-concave distribution $\pi(\theta) \propto \exp(-f(\theta))$ for $L$-Lipschitz $f$, constrained to a convex body (described by $n$ hyperplanes) equipped with a barrier function, contained in a ball of radius $R$ with a $w$-warm start. We propose a robust sampling framework that computes spectral approximations to the Hessian of the barrier functions in each iteration. We prove that for the polytope constraints, sampling with the Lee-Sidford barrier function mixes within $\widetilde O((d^2+dL^2R^2)\log(w/\delta))$ steps with a per step cost of $\widetilde O(nd^{\omega-1})$, where $\omega\approx 2.37$ is the fast matrix multiplication exponent. Compared to the prior work of Mangoubi and Vishnoi, our approach gives faster mixing time as we are able to design a generalized soft-threshold Dikin walk beyond log-barrier. 
+abstract: We consider the problem of sampling from a $d$-dimensional log-concave distribution $\pi(\theta) \propto \exp(-f(\theta))$ for $L$-Lipschitz $f$, constrained to a convex body (described by $n$ hyperplanes) equipped with a barrier function, contained in a ball of radius $R$ with a $w$-warm start. We propose a robust sampling framework that computes spectral approximations to the Hessian of the barrier functions in each iteration. We prove that for the polytope constraints, sampling with the Lee-Sidford barrier function mixes within $\widetilde O((d^2+dL^2R^2)\log(w/\delta))$ steps with a per step cost of $\widetilde O(nd^{\omega-1})$, where $\omega\approx 2.37$ is the fast matrix multiplication exponent. Compared to the prior work of Mangoubi and Vishnoi, our approach gives faster mixing time as we are able to design a generalized soft-threshold Dikin walk beyond log-barrier. We further extend our result to show how to sample from a $d$-dimensional spectrahedron, the constrained set of a semidefinite program. We design a walk that mixes in $\widetilde O((nd+dL^2R^2)\log(w/\delta))$ steps with a per iteration cost of $\widetilde O(n^\omega+n^2d^{3\omega-5})$. We improve the mixing time bound of prior best Dikin walk due to Narayanan and Rakhlin that mixes in $\widetilde O((n^2d^3+n^2dL^2R^2)\log(w/\delta))$ steps.
 
 # Summary. An optional shortened abstract.
 summary: (NeurIPS 2024) We design a Dikin walk for log-concave sampling over polytopes and spectrahedra with optimal mixing time and efficient per-iteration cost.
 
 tags:
-- Log-concave sampling, Dikin walk
+- Log-concave sampling
+- Dikin walk
 
 featured: true
 

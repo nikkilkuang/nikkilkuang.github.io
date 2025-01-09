@@ -21,7 +21,7 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2023-06-22T00:00:00Z'
+date: '2022-07-01T00:00:00Z'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -56,7 +56,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2207.11208.pdf'
+url_pdf: 'https://arxiv.org/abs/2207.11208'
 url_code: ''
 url_dataset: ''
 url_poster: ''

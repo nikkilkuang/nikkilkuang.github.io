@@ -33,7 +33,8 @@ abstract: The general assumption in reinforcement learning(RL) that agents are f
 summary: We propose sample efficient algorithms for constrained RL frameworks.
 
 tags:
-- Constrained RL, Reinforcement Learning
+- Constrained RL
+- Reinforcement Learning
 
 featured: true
 
