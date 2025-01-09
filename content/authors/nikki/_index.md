@@ -27,11 +27,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
+# # Interests to show in About widget
 # interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+#   - RL, Sequential Decision Making
+#   - Bayesian Inference
+#   - LLM alignment, Agents
 
 # Education to show in About widget
 education:
@@ -91,7 +91,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:shilaan@stanford.edu 
+    link: mailto:nikki.kuang@gmail.com 
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -118,13 +118,15 @@ social:
 highlight_name: true
 ---
 
-I'm a 4th-year PhD candidate in Computer Science at UC San Diego, where I am fortunate to be advised by [**Prof. Yian Ma**](https://sites.google.com/view/yianma/home), and closely collaborate with [**Prof. Tara Javidi**](https://tjavidi.eng.ucsd.edu/), [**Prof. Sean Gao**](https://scungao.github.io/).
+I'm a PhD candidate in Computer Science at UC San Diego, where I am fortunate to be advised by [**Prof. Yian Ma**](https://sites.google.com/view/yianma/home), and closely collaborate with [**Prof. Tara Javidi**](https://tjavidi.eng.ucsd.edu/), [**Prof. Sean Gao**](https://scungao.github.io/).
 
-My primary research interests lie in the intersection between reinforcement learning (RL) and Bayesian inference. I have been focusing on addressing the fundamental challenges in sequential decision making under uncertainty. The goal of my research is to design provably efficient and practical algorithms with performance guarantee, achieving both statistical and computational benefits. Towards this end, I typically resort to statistical modeling, sampling and optimization methods. 
+My primary research interests lie in the intersection between reinforcement learning (RL) and Bayesian inference. I have been focusing on addressing the fundamental challenges in sequential decision making under uncertainty. In light of recent advances in LLMs and foundation models, I also embark on various related topics (e.g. alignment, uncertainty quantification) and am particularly interested in studying their statistical properties. Besides, I am broadly interested in practical AI/ML problems in interactive data-driven systems, including agents, and robotics.
+
+The goal of my research is to design provably efficient and practical algorithms with performance guarantee, achieving both statistical and computational benefits. Towards this end, I typically resort to statistical modeling, sampling and optimization methods. 
 
 <!-- I am a practical theoretician who is interested in developing foundations for designing principled algorithms that can tackle real-world challenges. -->
 
-In light of the recent advances in LLMs, I also embark on RLHF and LLM alginment. Besides, I am broadly interested in practical AI/ML problems in interactive data-driven systems, including LLMs, embodied agents, and robotics.
+
 
 <center> 
 

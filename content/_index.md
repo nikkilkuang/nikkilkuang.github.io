@@ -116,10 +116,17 @@ sections:
     content:
       title: Invited Talks
       text: <ul>
+            <li>Decode-time Alignment for LLMs
+              <ul>
+                <li>MIT-IBM Lab, 2024</li>
+                <li>IBM Research, 2024</li>
+              </ul>
+            </li>
             <li>Posterior Sampling in RL with delayed feedback
               <ul>
                 <li>SOCAMS, 2024</li>
                 <li>TILOS-Intel Workshop, 2024</li>
+                <li>IBM Research, 2024</li>
               </ul>
             </li>
             <li>Robust Human Intention Estimation in Robot Teleoperation
@@ -166,6 +173,11 @@ sections:
               <li>ISIT (<em>2024</em>)</li>
             </ul>
           </li>
+          <li><strong>Journal Reviewers</strong>
+            <ul>
+              <li>IEEE Transactions on Circuits and Systems for Video Technology (<em>2024 - </em>)</li>
+            </ul>
+          </li>
         </ul>
     design:
       columns: '2'
@@ -174,8 +186,10 @@ sections:
     content:
       title: Featured Awards
       text: <ul>
+          <li>NSF AIVO Travel Grant</li>
+          <li>NeurIPS 2023 Top Reviewer (<em>Top 10%</em>)</li>
           <li>NeurIPS Scholar Award</li>
-          <li>HDSI Fellowship (<em>2020 - 2025</em>)</li>
+          <li>HDSI Fellowship</li>
           <li>UCSD GSA Travel Grant (<em>2023, 2019</em>)</li>
           <li>National Scholarship</li>
         </ul>

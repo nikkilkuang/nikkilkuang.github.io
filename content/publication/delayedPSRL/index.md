@@ -25,7 +25,7 @@ author_notes:
   - ''
   - ''
 
-date: "2024-02-12T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -46,7 +46,7 @@ abstract: Recent studies in reinforcement learning (RL) have made significant pr
 summary: (NeurIPS 2023) We provide the first theoretical analysis for the class of posterior sampling algorithms to handle delayed feedback in RL frameworks.
 
 tags:
-- PSRL
+- PSRL, Posterior Sampling, Reinforcement Learning 
 
 featured: true
 
@@ -55,7 +55,7 @@ featured: true
 #   url: http://example.org
 
 
-url_pdf: https://openreview.net/pdf?id=RiyH3z7oIF
+url_pdf: 'https://openreview.net/pdf?id=RiyH3z7oIF'
 url_code: ''
 url_dataset: ''
 url_poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71646.png?t=1702362883.9005537'

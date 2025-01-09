@@ -5,7 +5,7 @@ title: 'Sample Efficient Constrained Reinforcement Learning'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Nikki Lijing Kuang
+  - nikki
 
 
 # Author notes (optional)
@@ -33,7 +33,7 @@ abstract: The general assumption in reinforcement learning(RL) that agents are f
 summary: We propose sample efficient algorithms for constrained RL frameworks.
 
 tags:
-- Constrained RL
+- Constrained RL, Reinforcement Learning
 
 featured: true
 

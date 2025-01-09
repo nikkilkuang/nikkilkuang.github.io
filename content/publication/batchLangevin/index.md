@@ -44,7 +44,7 @@ abstract: Thompson sampling (TS) is widely used in sequential decision making du
 summary: (ICML 2023) We study approximate Thompson Sampling with Markov Chain Monte Carlo in bandit and reinforcement learning frameworks, providing algorithms that achieve optimal performance with low computation and communication cost.
 
 tags: 
-- Batched Langevin RL
+- Batched Langevin RL, Reinforcement Learning
 
 # Display this page in the Featured widget?
 featured: true
