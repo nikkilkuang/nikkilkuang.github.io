@@ -1,7 +1,7 @@
 ---
 title: "Towards Personalized Language Models via Inference-time Human Preference Optimization"
 
-subtitle: NeurIPS 2024
+subtitle: NeurIPS 2024 Workshop on Adaptive Foundation Models
 
 # categories: NeurIPS
 
