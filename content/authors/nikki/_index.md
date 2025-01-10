@@ -120,15 +120,12 @@ highlight_name: true
 
 I'm a PhD candidate in Computer Science at UC San Diego, where I am fortunate to be advised by [**Prof. Yian Ma**](https://sites.google.com/view/yianma/home), and closely collaborate with [**Prof. Tara Javidi**](https://tjavidi.eng.ucsd.edu/), [**Prof. Sean Gao**](https://scungao.github.io/).
 
-My primary research interests lie in the intersection between reinforcement learning (RL) and Bayesian inference. I have been focusing on addressing the fundamental challenges in sequential decision making under uncertainty. More recently, I also embark on various topics related to LLMs and foundation models (e.g. LLM alignment, uncertainty quantification for diffusion models).
-<!--  and am particularly interested in studying their statistical properties.  -->
-Besides, I am broadly interested in practical AI/ML problems in interactive data-driven systems, including agents, and robotics.
+My primary research interests lie in the intersection between reinforcement learning (RL) and Bayesian inference. I have been focusing on addressing the fundamental challenges in sequential decision making under uncertainty. More recently, I also embark on various topics related to LLMs and foundation models (e.g. LLM alignment, uncertainty quantification for diffusion models). Besides, I am broadly interested in practical AI/ML problems in interactive data-driven systems, including agents, and robotics.
 
 The goal of my research is to design provably efficient and practical algorithms with performance guarantee, achieving both statistical and computational benefits. Towards this end, I typically resort to statistical modeling, sampling and optimization methods. 
 
+<!--  and am particularly interested in studying their statistical properties.  -->
 <!-- I am a practical theoretician who is interested in developing foundations for designing principled algorithms that can tackle real-world challenges. -->
-
-
 
 <center> 
 
