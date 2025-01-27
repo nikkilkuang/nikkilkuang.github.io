@@ -117,7 +117,7 @@ sections:
     content:
       title: Invited Talks
       text: <ul>
-            <li>Decode-time Alignment for Personalized LLMs
+            <li>Inference-time Alignment for Personalized LLMs
               <ul>
                 <li>MIT-IBM Lab, 2024</li>
                 <li>IBM Research, 2024</li>
