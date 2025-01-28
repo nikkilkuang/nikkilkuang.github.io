@@ -124,7 +124,7 @@ My primary research interests span reinforcement learning (RL), foundation model
 with a focus on addressing fundamental challenges in sequential decision making under uncertainty. More recently,
 I am particularly interested in LLM alignment and reasoning, exploring how RL plays a role in these topics. 
 I have also worked on practical AI/ML problems in interactive data-driven systems, including RL for ranking systems,
-agents and robotics.
+LLM for personalization, agents and robotics.
 
 The goal of my research is to design provably efficient and practical algorithms with performance guarantee, 
 achieving both statistical and computational benefits. 
