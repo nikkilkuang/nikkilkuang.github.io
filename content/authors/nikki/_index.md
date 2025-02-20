@@ -123,14 +123,16 @@ I'm a PhD candidate in Computer Science at UC San Diego, where I am fortunate to
 My primary research interests span reinforcement learning (RL), foundation models and Bayesian inference,
 with a focus on addressing fundamental challenges in sequential decision making under uncertainty. More recently,
 I am particularly interested in LLM alignment and reasoning, exploring how RL plays a role in these topics. 
+The goal of my research is to design provably efficient and practical algorithms with performance guarantee, achieving both statistical and computational benefits. 
+
 I have also worked on practical AI/ML problems in interactive data-driven systems, including RL for ranking systems,
 LLM for personalization, agents and robotics.
 
-The goal of my research is to design provably efficient and practical algorithms with performance guarantee, 
-achieving both statistical and computational benefits. 
-Towards this end, I typically resort to statistical modeling, sampling and optimization methods. 
+I have experience with fine-tuning LLMs and reward models, designing CoT prompting and reasoning frameworks, LLM decoding, and training R1-style reasoning LLMs using RL (e.g. PPO, GRPO). During my PhD, I spent my summers as an intern at IBM research, Amazon and Honda Research Institute, working on LLM for personlization, RL for ranking and recommendation systems, and robotics. 
 
-<!--  and am particularly interested in studying their statistical properties.  -->
+<!-- Towards this end, I typically resort to statistical modeling, sampling and optimization methods. -->
+
+<!-- and am particularly interested in studying their statistical properties.  -->
 <!-- I am a practical theoretician who is interested in developing foundations for designing principled algorithms that can tackle real-world challenges. -->
 
 <center> 
