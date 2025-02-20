@@ -125,7 +125,7 @@ with a focus on addressing fundamental challenges in sequential decision making 
 I am particularly interested in **LLM alignment and reasoning**, exploring how RL plays a role in these topics. 
 The goal of my research is to design provably efficient and practical algorithms with performance guarantee, achieving both statistical and computational benefits. <!-- Towards this end, I typically resort to statistical modeling, sampling and optimization methods. -->
 
-During my PhD, I spent my summer internships at IBM research, Amazon and Honda Research Institute, working on LLM for personlization, RL for ranking and recommendation systems, and robotics. 
+During my PhD, I interned at IBM research, Amazon and Honda Research Institute, working on LLM for personlization, RL for ranking and recommendation systems, and robotics. 
 
 <!-- I have also worked on practical AI/ML problems in interactive data-driven systems, including RL for ranking systems,
 LLM for personalization, agents and robotics. -->
