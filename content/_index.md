@@ -177,6 +177,7 @@ sections:
           <li><strong>Journal Reviewers</strong>
             <ul>
               <li>IEEE Transactions on Circuits and Systems for Video Technology (<em>2024 - </em>)</li>
+              <li>IEEE Transactions on Information Theory (<em>2025 - </em>)</li>    
             </ul>
           </li>
         </ul>
