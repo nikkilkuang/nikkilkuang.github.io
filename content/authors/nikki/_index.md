@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Computer Science
+role: Research Scientist, PhD in CS
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of California San Diego
-      year: Expected 2025
+      year: 2025
     - course: MSc in Computer Science
       institution: University of California San Diego
       year: 2020
@@ -117,20 +117,25 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a Research Scientist at Snowflake AI Research, where I work on **LLM reasoning** and **agentic frameworks**, with a particular focus on how **reinforcement learning (RL)** contributes to these emerging paradigms. 
 
+I received my Ph.D. in Computer Science from UC San Diego, where I was fortunate to be advised by [**Prof. Yian Ma**](https://sites.google.com/view/yianma/home), and closely collaborated with [**Prof. Tara Javidi**](https://tjavidi.eng.ucsd.edu/), [**Prof. Sean Gao**](https://scungao.github.io/). During my PhD, I primarily work on RL, foundation Models (LLMs, Diffusion Models) and Bayesian inference, with the aim to address the fundamental challenges in sequential decision-making under uncertainty. The goal of my research is to design provably efficient and practical algorithms with performance guarantee, achieving both statistical and computational benefits. Besides, I have gained hands-on experience with fine-tuning LLMs and reward models, designing CoT prompting and reasoning frameworks, LLM decoding, and training R1-style reasoning LLMs using RL (e.g. PPO, GRPO). 
+
+<div style="display:none;">
 I'm a PhD candidate in Computer Science at UC San Diego, where I am fortunate to be advised by [**Prof. Yian Ma**](https://sites.google.com/view/yianma/home), and closely collaborate with [**Prof. Tara Javidi**](https://tjavidi.eng.ucsd.edu/), [**Prof. Sean Gao**](https://scungao.github.io/).
 
 My primary research interests span **reinforcement learning (RL)**, foundation models and Bayesian inference,
 with a focus on addressing fundamental challenges in sequential decision making under uncertainty. More recently,
 I am particularly interested in **LLM alignment and reasoning**, exploring how RL plays a role in these topics. 
 The goal of my research is to design provably efficient and practical algorithms with performance guarantee, achieving both statistical and computational benefits. <!-- Towards this end, I typically resort to statistical modeling, sampling and optimization methods. -->
+</div>
 
-During my PhD, I interned at IBM research, Amazon and Honda Research Institute, working on LLM for personlization, RL for ranking and recommendation systems, and robotics. 
+Previously, I interned at IBM research, Amazon and Honda Research Institute, working on LLM for personlization, RL for ranking and recommendation systems, and robotics. 
 
 <!-- I have also worked on practical AI/ML problems in interactive data-driven systems, including RL for ranking systems,
 LLM for personalization, agents and robotics. -->
 
-I have experience with fine-tuning LLMs and reward models, designing CoT prompting and reasoning frameworks, LLM decoding, and training R1-style reasoning LLMs using RL (e.g. PPO, GRPO). 
+<!-- I have experience with fine-tuning LLMs and reward models, designing CoT prompting and reasoning frameworks, LLM decoding, and training R1-style reasoning LLMs using RL (e.g. PPO, GRPO). -->
 
 <!-- and am particularly interested in studying their statistical properties.  -->
 <!-- I am a practical theoretician who is interested in developing foundations for designing principled algorithms that can tackle real-world challenges. -->
